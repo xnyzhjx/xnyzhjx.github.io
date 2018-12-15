@@ -1817,7 +1817,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #13ff67;
+  background: #b4a885;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2992,4 +2992,13 @@ pre .javascript .function {
 }
 .footer {
   bottom: auto;
+}
+.posts-expand .post-body ul li {
+  list-style: none;
+}
+.category-list a {
+  font-weight: bold;
+}
+.category-list-child .category-list-item a {
+  font-weight: normal;
 }
