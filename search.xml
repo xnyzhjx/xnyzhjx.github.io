@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[故障消缺]]></title>
-    <url>%2F2018%2F12%2F15%2F~%E7%BC%BA%E9%99%B7%E8%AE%B0%E5%BD%95_%E6%95%85%E9%9A%9C%E6%B6%88%E7%BC%BA%2F</url>
-    <content type="text"><![CDATA[故障消缺]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[线路抢修]]></title>
-    <url>%2F2018%2F12%2F15%2F~%E7%BC%BA%E9%99%B7%E8%AE%B0%E5%BD%95_%E7%BA%BF%E8%B7%AF%E6%8A%A2%E4%BF%AE%2F</url>
-    <content type="text"><![CDATA[线路抢修]]></content>
+    <title><![CDATA[定期维护]]></title>
+    <url>%2F2018%2F12%2F15%2F~%E7%BC%BA%E9%99%B7%E8%AE%B0%E5%BD%95_%E5%AE%9A%E6%9C%9F%E7%BB%B4%E6%8A%A4%2F</url>
+    <content type="text"><![CDATA[定期维护]]></content>
   </entry>
   <entry>
     <title><![CDATA[维检缺陷]]></title>
@@ -16,9 +11,9 @@
     <content type="text"><![CDATA[维检缺陷]]></content>
   </entry>
   <entry>
-    <title><![CDATA[站内抢修]]></title>
-    <url>%2F2018%2F12%2F15%2F~%E7%BC%BA%E9%99%B7%E8%AE%B0%E5%BD%95_%E7%AB%99%E5%86%85%E6%8A%A2%E4%BF%AE%2F</url>
-    <content type="text"><![CDATA[站内抢修]]></content>
+    <title><![CDATA[线路抢修]]></title>
+    <url>%2F2018%2F12%2F15%2F~%E7%BC%BA%E9%99%B7%E8%AE%B0%E5%BD%95_%E7%BA%BF%E8%B7%AF%E6%8A%A2%E4%BF%AE%2F</url>
+    <content type="text"><![CDATA[线路抢修]]></content>
   </entry>
   <entry>
     <title><![CDATA[运行手册]]></title>
@@ -26,9 +21,14 @@
     <content type="text"><![CDATA[【手机端】请点击『 下载 』查看提取码: j9f5]]></content>
   </entry>
   <entry>
-    <title><![CDATA[定期维护]]></title>
-    <url>%2F2018%2F12%2F15%2F~%E7%BC%BA%E9%99%B7%E8%AE%B0%E5%BD%95_%E5%AE%9A%E6%9C%9F%E7%BB%B4%E6%8A%A4%2F</url>
-    <content type="text"><![CDATA[定期维护]]></content>
+    <title><![CDATA[站内抢修]]></title>
+    <url>%2F2018%2F12%2F15%2F~%E7%BC%BA%E9%99%B7%E8%AE%B0%E5%BD%95_%E7%AB%99%E5%86%85%E6%8A%A2%E4%BF%AE%2F</url>
+    <content type="text"><![CDATA[站内抢修]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[故障消缺]]></title>
+    <url>%2F2018%2F12%2F15%2F~%E7%BC%BA%E9%99%B7%E8%AE%B0%E5%BD%95_%E6%95%85%E9%9A%9C%E6%B6%88%E7%BC%BA%2F</url>
+    <content type="text"><![CDATA[故障消缺]]></content>
   </entry>
   <entry>
     <title><![CDATA[故障13]]></title>
@@ -171,6 +171,16 @@
       </categories>
   </entry>
   <entry>
+    <title><![CDATA[故障22]]></title>
+    <url>%2F2018%2F12%2F12%2F%E2%85%A1%E3%80%81%E9%87%91%E9%A3%8E%20-%201.5MW%20-%20%E2%91%A0%E5%8F%98%E6%A1%A8%E5%8F%8A%E5%8F%B6%E7%89%87%20-%20%E6%95%85%E9%9A%9C2%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>Ⅱ、金风科技</category>
+        <category>1.5MW全系统分类</category>
+        <category>①变桨及叶片</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[洗衣机]]></title>
     <url>%2F2018%2F12%2F12%2F%E2%85%A2%E3%80%81%E5%B9%BF%E4%B8%9C%20-%203.0MW%20-%20%E2%91%A0%E5%8F%98%E6%A1%A8%E5%8F%8A%E5%8F%B6%E7%89%87%20-%20%E4%BA%A4%E6%8E%A5%2F</url>
     <content type="text"></content>
@@ -182,11 +192,11 @@
   </entry>
   <entry>
     <title><![CDATA[故障22]]></title>
-    <url>%2F2018%2F12%2F12%2F%E2%85%A1%E3%80%81%E9%87%91%E9%A3%8E%20-%201.5MW%20-%20%E2%91%A0%E5%8F%98%E6%A1%A8%E5%8F%8A%E5%8F%B6%E7%89%87%20-%20%E6%95%85%E9%9A%9C2%2F</url>
+    <url>%2F2018%2F12%2F12%2F%E2%85%A1%E3%80%81%E9%87%91%E9%A3%8E%20-%203.0MW%20-%20%E2%91%A0%E5%8F%98%E6%A1%A8%E5%8F%8A%E5%8F%B6%E7%89%87%20-%20%E6%B5%81%E9%87%8F%2F</url>
     <content type="text"></content>
       <categories>
         <category>Ⅱ、金风科技</category>
-        <category>1.5MW全系统分类</category>
+        <category>3.0MW全系统分类</category>
         <category>①变桨及叶片</category>
       </categories>
   </entry>
@@ -197,16 +207,6 @@
       <categories>
         <category>Ⅱ、金风科技</category>
         <category>2.0MW全系统分类</category>
-        <category>①变桨及叶片</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[故障22]]></title>
-    <url>%2F2018%2F12%2F12%2F%E2%85%A1%E3%80%81%E9%87%91%E9%A3%8E%20-%203.0MW%20-%20%E2%91%A0%E5%8F%98%E6%A1%A8%E5%8F%8A%E5%8F%B6%E7%89%87%20-%20%E6%B5%81%E9%87%8F%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>Ⅱ、金风科技</category>
-        <category>3.0MW全系统分类</category>
         <category>①变桨及叶片</category>
       </categories>
   </entry>
